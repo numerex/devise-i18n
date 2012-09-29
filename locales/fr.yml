@@ -21,6 +21,7 @@ fr:
         subject: Instructions de confirmation
       reset_password_instructions:
         subject: Instructions pour changer le mot de passe
+        user_subject: Instructions pour changer le mot de passe
       unlock_instructions:
         subject: Instructions pour déverrouiller le compte
     omniauth_callbacks:
