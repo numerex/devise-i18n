@@ -21,6 +21,7 @@ es:
         subject: Instrucciones de confirmación
       reset_password_instructions:
         subject: Instrucciones de recuperación de contraseña
+        user_subject: Instrucciones de recuperación de contraseña
       unlock_instructions:
         subject: Instrucciones para desbloquear
     omniauth_callbacks:
