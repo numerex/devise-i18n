@@ -35,6 +35,8 @@ es:
         tu bandeja de entrada.
       updated: Tu contraseña fue cambiada. Ya iniciaste sesión.
       updated_not_active: Tu contraseña fue cambiada.
+      user:
+        updated: Tu contraseña fue cambiada. Ya iniciaste sesión.
     registrations:
       destroyed: Fue grato tenerte con nosotros. Tu cuenta fue cancelada.
       signed_up: Bienvenido. Tu cuenta fue creada.
