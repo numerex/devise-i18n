@@ -36,6 +36,8 @@ fr:
       updated: Votre mot de passe a été modifié avec succès. Vous êtes maintenant
         connecté.
       updated_not_active: Votre mot de passe a été modifié avec succès.
+      user:
+        updated: Votre mot de passe a été modifié avec succès. Vous êtes maintenant connecté.
     registrations:
       destroyed: Au revoir ! Votre compte a été annulé avec succès. Nous espérons
         vous revoir bientôt.
